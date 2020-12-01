@@ -9,7 +9,7 @@
       <p><b>地址：宁波市鄞州区盛莫路1519号浙江万里学院，6楼，邮编31510</b></p>
     </td>
     <td width="25%">
-      <img src="/picture.jpg" width="100%">      
+      <img src="https://github.com/redamancy-unrasea/github.com/blob/gh-pages/picture.jpg?raw=true" width="100%">      
     </td>
   </tr>
 </table>
